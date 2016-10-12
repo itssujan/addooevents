@@ -1,0 +1,24 @@
+{
+  "name": "AddooEvents",
+  "version": "1.0.0",
+  "description": "Addoo Events Processing Engine",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itssujan/AddooEvents.git"
+  },
+  "author": "Sujan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itssujan/AddooEvents/issues"
+  },
+  "homepage": "https://github.com/itssujan/AddooEvents#readme"
+}
